@@ -1,0 +1,8 @@
+your-repository/
+├── images/
+│   ├── book-cover.jpg
+│   ├── hero-image.jpg
+│   ├── glimpse-1.jpg
+│   └── glimpse-2.jpg
+├── index.html
+└── styles.css
